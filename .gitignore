@@ -1,0 +1,4 @@
+# Project exclude paths
+/01.Messenger/node_modules/
+/02.Book-Library/node_modules/
+/03.SoftTerest/node_modules/
